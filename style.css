@@ -273,7 +273,7 @@ section{
 }
 .contacts .ct{
     display: flex;
-    gap: 1rem;
+    gap: 5%;
     width: fit-content;
 }
 .contacts .ct i{
