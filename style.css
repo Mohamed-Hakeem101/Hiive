@@ -274,7 +274,6 @@ section{
 .contacts .ct{
     display: flex;
     gap: 5%;
-    width: fit-content;
 }
 .contacts .ct i{
     font-size: 1.2rem;
